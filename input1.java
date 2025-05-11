@@ -404,19 +404,19 @@ public class input1 extends javax.swing.JFrame {
     private void jButton15ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton15ActionPerformed
         // TODO add your handling code here:
         jtxtv.setText("");
-         jtxtm.setText("");
-          jtxtb.setText("");
-            jtxta.setText("");
-             jtxtt.setText("");
-              jtxty.setText("");
-               jtxtl.setText("");
-                jtxtk.setText("");
-                 jtxto.setText("");
-                  jtxtn.setText("");
-                   jtxtoo.setText("");
-                    jtxtc.setText("");
-                     jtxtd.setText("");
-                      jtxtko.setText(""); 
+        jtxtm.setText("");
+        jtxtb.setText("");
+        jtxta.setText("");
+        jtxtt.setText("");
+        jtxty.setText("");
+        jtxtl.setText("");
+        jtxtk.setText("");
+        jtxto.setText("");
+        jtxtn.setText("");
+        jtxtoo.setText("");
+        jtxtc.setText("");
+        jtxtd.setText("");
+        jtxtko.setText(""); 
     }//GEN-LAST:event_jButton15ActionPerformed
 
     private void jtxtbActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jtxtbActionPerformed
