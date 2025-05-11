@@ -1,6 +1,6 @@
 package utsstrukturdatadanalgoritma;
 public class input2 extends javax.swing.JFrame {
-    public HAHU() {
+    public input2() {
         initComponents();
     }
     @SuppressWarnings("unchecked")
